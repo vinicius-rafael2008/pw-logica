@@ -1,2 +1,3 @@
-print("olá mundo!")
-print("estou programando em python!")
+nome= input("digite seu nome:")
+
+print(nome)
