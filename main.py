@@ -1,6 +1,3 @@
-x, y, z="orange", "banana", "cherry"
+nomes=["lucas", "vinicios," "davi," "arthur s," "toddynho," "arthur f","maria", "pietra," "miguel", "apollo," "bernardo","Eric","kaua" ]
 
-
-print(x)
-print(y)
-print(z)
+print{bernado}
