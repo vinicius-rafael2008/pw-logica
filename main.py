@@ -1,10 +1,8 @@
-a= 10
-b= 4
+nome= input("seu nome:")
+nota1= float (input("nota 1:"))
+nota2 = float(input("nota 2:"))
+nota3 = float(input("nota 3:"))
 
-print(f"{a}+ {b} = {a + b}")
-print(f"{a} - {b}= {a - b}")
-print(f"{a} x {b}= {a * b}")
-print(f"{a} / {b}={a / b}")
-print(f"{a} // {b}= {a // b}")#se use o jogo da velha!
-print(f"{a} % {b}= {a % b}")
-print(f"{a} ** {b} = {a ** b}")
+media= nota1 + nota2 + nota3/ 3
+
+print(f"{nome}, sua media e {media}.")
