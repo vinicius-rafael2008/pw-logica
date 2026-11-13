@@ -1,24 +1,5 @@
-nome = input ("seu nome: ")
-nome= input("seu nome:")
-nome= input("seu nome:")
-
-ano_nascimento= int(input("ano nascimento"))
-
-
-
-ano_nascimento= int (input("ano de nascimento:"))
-
-ano_nascimento= int(input("ano de nascimento:"))
-
-ano_atual=2026
-ano_atual=2026
-ano_atual=2026
-
-idade=ano_atual - ano_nascimento
-ano_100 = ano_nascimento + 100
-
-
-print(f"{nome}, voce tem(ou vai fazer){idade} anos em {ano_atual}")
-print(f"voce vai completar 100 anos em {ano_100}")
-
+print("=== conversor de km para milhas ===")
+km= float(input("distancia em km:"))
+milhas= km/1.609
+print(f"{km} km= {milhas:.2f} milhas")
 
