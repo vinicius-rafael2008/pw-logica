@@ -1,7 +1,11 @@
 nota = input("digite seu nome: ")
 
-imc = int(input("peso"))
-imc = int(input("altura"))
+peso = int(input("peso"))
+altura = int(input("altura"))
+
+resultado 
+
+
 
 if imc < 18.5:
     print("abaixo do peso:")
