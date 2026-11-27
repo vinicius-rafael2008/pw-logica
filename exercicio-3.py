@@ -1,9 +1,7 @@
-aluno =["davi", "lucas", "miguel"]
+alunos = ["pedro", "lucas","Apollo","matheus", "miguel,"]
 
 contador = 0
-
 for aluno in alunos:
-    print(f"Aluno {contador} :{aluno}")
+  print(f"aluno {contador}: {aluno}")
 
-
-    contador += 1
+  contador +=1  
