@@ -1,4 +1,4 @@
-aluno =["davi," "lucas," "miguel,"]
+aluno =["davi", "lucas", "miguel"]
 
 contador = 0
 
