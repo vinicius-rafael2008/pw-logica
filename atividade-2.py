@@ -1,4 +1,4 @@
-compras =["arroz" "batata" "feijao"]
+compras =["arroz," "batata," "feijao,"]
 print("lista inicial:")
 print(compras)
 compras.append("cafe")
